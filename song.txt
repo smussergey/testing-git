@@ -1,3 +1,7 @@
 1. Line added
 2. Line added
+<<<<<<< Updated upstream
 3. Line added
+=======
+new Line added
+>>>>>>> Stashed changes
