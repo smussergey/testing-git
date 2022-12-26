@@ -5,4 +5,8 @@
 =======
 new Line added
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 5. Line added
+=======
+4. Line added
+>>>>>>> 3a71e9fb71af05557b81105a606a39c900bb738a
