@@ -1,24 +1,28 @@
 1. Line added
 2. Line added
-<<<<<<< Updated upstream
+
 3. Line added
-=======
+
 new Line added
->>>>>>> Stashed changes
-<<<<<<< HEAD
+
+
 5. Line added
-=======
+
 4. Line added
-<<<<<<< HEAD
->>>>>>> 3a71e9fb71af05557b81105a606a39c900bb738a
-=======
+
+
+
 5. Line added
->>>>>>> 995e6d02b499f67cc618e29f611854f6a3be3d24
-6. Line added
-<<<<<<< Updated upstream
+
+
+
 12 commit
-=======
+
 7. Line added
->>>>>>> Stashed changes
+
+
+18-th commit prod
+
 14 commit (dev)
 15 commit (dev)
+
