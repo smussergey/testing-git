@@ -5,3 +5,4 @@
 =======
 new Line added
 >>>>>>> Stashed changes
+4. Line added
