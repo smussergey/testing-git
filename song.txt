@@ -20,3 +20,4 @@ new Line added
 =======
 7. Line added
 >>>>>>> Stashed changes
+14 commit (dev)
