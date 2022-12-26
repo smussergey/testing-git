@@ -9,4 +9,8 @@ new Line added
 5. Line added
 =======
 4. Line added
+<<<<<<< HEAD
 >>>>>>> 3a71e9fb71af05557b81105a606a39c900bb738a
+=======
+5. Line added
+>>>>>>> 995e6d02b499f67cc618e29f611854f6a3be3d24
